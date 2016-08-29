@@ -1,0 +1,17 @@
+Basic Exercise 1: 
+
+fastqc -o fastqcout SRR072893.fastq 
+
+Basic Exercise 2: 
+
+hisat2 -p 4 -x ~/data/BDGP6/BDGP6 -U SRR072893.fastq -S outputsam
+
+Basic Exercise 3: 
+
+samtools sort outputs -O bam  > bam.bam
+
+samtools index bam.bam > indexedbam
+
+Basic exercise 4: 
+
+stringtie ~/data/fastq/bam.bam -G ~/data/BDGP6/BDGP6.Ensembl.85.gtf -o sortedbam -p 4 -e -B
