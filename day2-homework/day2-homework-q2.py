@@ -24,7 +24,7 @@ def ident_map(mapping_file, c_tab, arg1):
         gene_name = fields2[8]
         if gene_name in mapping_dict:
             print mapping_dict[gene_name], "\t" , line
-        if gene_name not in mapping_dict and sys.argv[3] == "a":
+        if gene_name not in mapping_dict and arg1 == "a":
            
             fields2[1] = "***********"
             print fields2[1], "\t" , line
