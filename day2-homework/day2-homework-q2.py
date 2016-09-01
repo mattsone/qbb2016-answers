@@ -2,7 +2,8 @@
 """
 Instructions:  give python file, mapping file, and c tab file separated by spaces, along with arg1,
 which if it is any character other than a, will skip non-matching lines.  If a is used for arg1
-first column will be replaced by *****
+first column will be replaced by ***** if no matches.  The matched uniprot ID is listed as a new column 1 if a match is found
+between flybase and the mapping file.
 
 """
 import sys
