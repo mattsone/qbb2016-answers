@@ -1,0 +1,1000 @@
+Identifier: [['STRG.33.1', 'STRG.33.2']]
+Kmer: TGCTGCGCCGC
+Target start: [2106, 1923]
+Query start: [24854]
+Identifier: [['STRG.41.2', 'STRG.41.3']]
+Kmer: AATTTTACATT
+Target start: [2576, 2515]
+Query start: [9699]
+Identifier: [['STRG.26.2']]
+Kmer: TTTAAAAAAGA
+Target start: [564]
+Query start: [9903, 97625]
+Identifier: [['STRG.36.1']]
+Kmer: AGTGGTACCGA
+Target start: [1221]
+Query start: [3349]
+Identifier: [['STRG.57.2']]
+Kmer: TTTGAATTATT
+Target start: [3408]
+Query start: [13904]
+Identifier: [['STRG.32.2', 'STRG.42.2']]
+Kmer: TGAGTAATATT
+Target start: [1251, 1172]
+Query start: [43806]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: GTGTGTGTGTC
+Target start: [434, 434]
+Query start: [28355]
+Identifier: [['STRG.13.2']]
+Kmer: GGAGCCCAAGG
+Target start: [1207]
+Query start: [91961]
+Identifier: [['STRG.42.1', 'STRG.42.2']]
+Kmer: TGTGGCGCAAT
+Target start: [676, 1878]
+Query start: [36998]
+Identifier: [['STRG.48.1']]
+Kmer: CAGCGAACAAA
+Target start: [2607]
+Query start: [13679]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: CGACCAAATCT
+Target start: [443, 443]
+Query start: [44394]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: AAGGATGCGAA
+Target start: [13003, 13057]
+Query start: [18605]
+Identifier: [['STRG.1.1']]
+Kmer: CGGAGAAGCAA
+Target start: [2116]
+Query start: [69989]
+Identifier: [['STRG.15.1']]
+Kmer: CGAAGTGCTCC
+Target start: [515]
+Query start: [92872]
+Identifier: [['STRG.5.1']]
+Kmer: AAAAACAAATT
+Target start: [3893]
+Query start: [24304]
+Identifier: [['STRG.58.1']]
+Kmer: ATCAGCAGGTC
+Target start: [94]
+Query start: [44341]
+Identifier: [['STRG.33.1', 'STRG.33.2']]
+Kmer: GACAGGTGGAG
+Target start: [3663, 3498]
+Query start: [38742]
+Identifier: [['STRG.4.1', 'STRG.18.2', 'STRG.18.1']]
+Kmer: TAGCTGCAAAA
+Target start: [296, 10382, 10436]
+Query start: [44016]
+Identifier: [['STRG.59.3', 'STRG.59.1', 'STRG.59.2']]
+Kmer: TCCAGCTCGAG
+Target start: [1401, 1401, 2189]
+Query start: [40773, 40785]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: TTCCCTAAAAG
+Target start: [3244, 3244]
+Query start: [4902]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: CCATATTTGGC
+Target start: [1967, 1967]
+Query start: [66136]
+Identifier: [['STRG.42.1', 'STRG.42.2']]
+Kmer: TCAAATTCAAT
+Target start: [1699, 2901]
+Query start: [20772]
+Identifier: [['STRG.1.1']]
+Kmer: GAATACATACA
+Target start: [214]
+Query start: [67157]
+Identifier: [['STRG.41.2', 'STRG.41.3']]
+Kmer: ATTATTCAAAT
+Target start: [2466, 2405]
+Query start: [547]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: AGCACATATTC
+Target start: [9042, 9096]
+Query start: [2440]
+Identifier: [['STRG.2.2', 'STRG.6.1']]
+Kmer: AGATATTTATT
+Target start: [3908, 1508]
+Query start: [8036]
+Identifier: [['STRG.22.1']]
+Kmer: CCTGGAATACT
+Target start: [1399]
+Query start: [21702, 74092]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: GGGAAAGCTTT
+Target start: [10259, 10313]
+Query start: [48318, 60204]
+Identifier: [['STRG.3.2', 'STRG.3.1', 'STRG.3.3']]
+Kmer: TCGGCATTGCC
+Target start: [837, 454, 690]
+Query start: [91863]
+Identifier: [['STRG.46.1']]
+Kmer: TGCTGCTCCTG
+Target start: [87]
+Query start: [14839, 46654, 82630, 92574]
+Identifier: [['STRG.59.3', 'STRG.59.1', 'STRG.59.2']]
+Kmer: TGCTGCTCCTT
+Target start: [604, 604, 1392]
+Query start: [92583]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: AAGCGCTCTAC
+Target start: [7765, 7819]
+Query start: [80248]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: AGAAGAAGATG
+Target start: [6460, 6460]
+Query start: [3098]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: GAAAAAAAGAT
+Target start: [7711, 7765]
+Query start: [52562]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: GACAGAAAAAT
+Target start: [7353, 17071, 17656]
+Query start: [63851]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GTCAACTTCAA
+Target start: [647, 647]
+Query start: [48112]
+Identifier: [['STRG.5.1']]
+Kmer: CGGAATTTCAA
+Target start: [5699]
+Query start: [72497]
+Identifier: [['STRG.10.3', 'STRG.10.2']]
+Kmer: CTGCTCCACTG
+Target start: [556, 436]
+Query start: [39621]
+Identifier: [['STRG.33.1', 'STRG.33.2', 'STRG.42.1', 'STRG.42.2']]
+Kmer: GAAAAAAAGAA
+Target start: [2591, 2408, 1955, 3157]
+Query start: [42588]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: AGTGGTTTTCG
+Target start: [337, 337]
+Query start: [60105]
+Identifier: [['STRG.33.1', 'STRG.33.2']]
+Kmer: TTTTTCTCCCC
+Target start: [4699, 4513]
+Query start: [97670]
+Identifier: [['STRG.1.1']]
+Kmer: GGAACAGAAGG
+Target start: [821]
+Query start: [4821]
+Identifier: [['STRG.34.1']]
+Kmer: CGGCAGTTACA
+Target start: [1173]
+Query start: [16889]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: ACCACCCACTC
+Target start: [755, 755]
+Query start: [49628]
+Identifier: [['STRG.42.1', 'STRG.42.2']]
+Kmer: GAAGTGCAAAA
+Target start: [92, 92]
+Query start: [74695]
+Identifier: [['STRG.52.1']]
+Kmer: TTGCAGGCGGC
+Target start: [426]
+Query start: [17467]
+Identifier: [['STRG.2.2']]
+Kmer: AATCCAGAATA
+Target start: [3875]
+Query start: [10379]
+Identifier: [['STRG.41.2', 'STRG.41.3']]
+Kmer: GTTTGCAGTTT
+Target start: [104, 104]
+Query start: [84751]
+Identifier: [['STRG.58.1']]
+Kmer: GACGGAGAGAC
+Target start: [379]
+Query start: [61734]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: ATCGATATGCC
+Target start: [2078, 2078]
+Query start: [68842]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: AGGAAAGCAAG
+Target start: [10193, 10247]
+Query start: [49582, 54819]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: AAACGAAATTA
+Target start: [5652, 5652]
+Query start: [67966]
+Identifier: [['STRG.10.5', 'STRG.10.6', 'STRG.10.1', 'STRG.10.4']]
+Kmer: GCGCTTCCATG
+Target start: [474, 686, 303, 440]
+Query start: [40593]
+Identifier: [['STRG.7.3', 'STRG.7.4', 'STRG.7.2', 'STRG.7.5', 'STRG.7.6']]
+Kmer: TGCAATAAATT
+Target start: [2357, 2357, 2330, 2286, 2406]
+Query start: [78694]
+Identifier: [['STRG.32.2', 'STRG.32.1']]
+Kmer: TTTTTTCGAGG
+Target start: [442, 442]
+Query start: [83256]
+Identifier: [['STRG.1.1']]
+Kmer: TATTTATGATT
+Target start: [4133]
+Query start: [4941]
+Identifier: [['STRG.43.3', 'STRG.43.1', 'STRG.43.2']]
+Kmer: CAAGCAGCGAC
+Target start: [268, 239, 235]
+Query start: [45713]
+Identifier: [['STRG.41.2']]
+Kmer: AGTAATAAGAA
+Target start: [226]
+Query start: [36211]
+Identifier: [['STRG.48.1']]
+Kmer: AAACTACGAAA
+Target start: [3478]
+Query start: [42561]
+Identifier: [['STRG.59.3', 'STRG.59.1', 'STRG.59.2']]
+Kmer: CTTTTGGACAA
+Target start: [366, 366, 1154]
+Query start: [66697, 67063]
+Identifier: [['STRG.14.1']]
+Kmer: CCGATAAAGAA
+Target start: [4378]
+Query start: [46142]
+Identifier: [['STRG.4.1']]
+Kmer: AGTGTGTTGTG
+Target start: [197]
+Query start: [38188]
+Identifier: [['STRG.3.2', 'STRG.3.1', 'STRG.3.3']]
+Kmer: CGAACTTTGGT
+Target start: [1017, 634, 870]
+Query start: [25711]
+Identifier: [['STRG.46.1']]
+Kmer: TCTTTGCTCAT
+Target start: [840]
+Query start: [53077]
+Identifier: [['STRG.54.1']]
+Kmer: AAATAAACTTC
+Target start: [1221]
+Query start: [59600]
+Identifier: [['STRG.51.1']]
+Kmer: ACTTTGACTTT
+Target start: [1370]
+Query start: [84458]
+Identifier: [['STRG.53.2']]
+Kmer: TCTCAATAATT
+Target start: [2019]
+Query start: [5732]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: CAGCAGAAAAG
+Target start: [1181, 10899, 11484]
+Query start: [48953]
+Identifier: [['STRG.8.1']]
+Kmer: AAAGCAAATGT
+Target start: [414]
+Query start: [72908]
+Identifier: [['STRG.43.3', 'STRG.43.1', 'STRG.43.2']]
+Kmer: TTTGCCTGTCG
+Target start: [557, 528, 524]
+Query start: [32016]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: GACCAAGTTCA
+Target start: [648, 10366, 10951]
+Query start: [1711]
+Identifier: [['STRG.50.1']]
+Kmer: ATCCTCGAGGA
+Target start: [210]
+Query start: [20639]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: CAATATATAAA
+Target start: [4132, 4132]
+Query start: [65913]
+Identifier: [['STRG.3.3']]
+Kmer: GAGACAATAAT
+Target start: [8]
+Query start: [57715]
+Identifier: [['STRG.3.1']]
+Kmer: ATTGATTTTGC
+Target start: [40]
+Query start: [53673]
+Identifier: [['STRG.36.1']]
+Kmer: ATTTTCGCCTT
+Target start: [2620]
+Query start: [77119]
+Identifier: [['STRG.48.1']]
+Kmer: GCCAGCGGCGC
+Target start: [2518]
+Query start: [92087]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: CTATAATACAA
+Target start: [300, 73, 73]
+Query start: [67139]
+Identifier: [['STRG.20.3']]
+Kmer: TCAATAATCAT
+Target start: [230]
+Query start: [85590]
+Identifier: [['STRG.58.1']]
+Kmer: GGGAAAATCAA
+Target start: [1039]
+Query start: [17907]
+Identifier: [['STRG.50.1']]
+Kmer: CGAGCAAATAA
+Target start: [245]
+Query start: [7855]
+Identifier: [['STRG.55.1']]
+Kmer: GTGCATTATTT
+Target start: [1204]
+Query start: [30537]
+Identifier: [['STRG.4.1']]
+Kmer: CAACCAAATCG
+Target start: [2717]
+Query start: [31618]
+Identifier: [['STRG.28.1']]
+Kmer: GACTGGCCATT
+Target start: [616]
+Query start: [60330]
+Identifier: [['STRG.37.1']]
+Kmer: CCAATCTGGGC
+Target start: [145]
+Query start: [45377]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: GCAGTGGCAAA
+Target start: [4422, 4422]
+Query start: [69530]
+Identifier: [['STRG.31.1', 'STRG.31.2', 'STRG.31.3', 'STRG.48.1']]
+Kmer: GGCGGAGGCGG
+Target start: [1989, 1989, 899, 2773]
+Query start: [59183]
+Identifier: [['STRG.13.1']]
+Kmer: ACCGAAGATAT
+Target start: [1735]
+Query start: [89324]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: CTTTGGTTTGC
+Target start: [2213, 2213]
+Query start: [78669]
+Identifier: [['STRG.49.2', 'STRG.49.1']]
+Kmer: TTTGCGAGCAG
+Target start: [148, 68]
+Query start: [31581]
+Identifier: [['STRG.59.1', 'STRG.59.2']]
+Kmer: CATCTGGCGCA
+Target start: [3539, 4327]
+Query start: [14624]
+Identifier: [['STRG.57.1', 'STRG.57.2']]
+Kmer: CCTCCTCCTGC
+Target start: [1038, 1038]
+Query start: [47176, 82619]
+Identifier: [['STRG.42.2']]
+Kmer: CAATTTTTAAA
+Target start: [927]
+Query start: [1006]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GGTGGGCGCCT
+Target start: [2702, 2702]
+Query start: [89661]
+Identifier: [['STRG.36.1']]
+Kmer: ATGTGGAGAAG
+Target start: [170]
+Query start: [3513]
+Identifier: [['STRG.34.1']]
+Kmer: TGGCAATGCCA
+Target start: [183]
+Query start: [68418]
+Identifier: [['STRG.5.1']]
+Kmer: TATGAAGCAAT
+Target start: [5276]
+Query start: [59359]
+Identifier: [['STRG.36.1']]
+Kmer: CAATAAAAGCA
+Target start: [846]
+Query start: [20746]
+Identifier: [['STRG.17.1']]
+Kmer: CTCAAAAAATG
+Target start: [76]
+Query start: [34335]
+Identifier: [['STRG.31.1', 'STRG.31.2', 'STRG.31.3']]
+Kmer: CATGATTACTT
+Target start: [2547, 2547, 1457]
+Query start: [83957]
+Identifier: [['STRG.59.1', 'STRG.59.2']]
+Kmer: AAGGCGGAGAA
+Target start: [2353, 3141]
+Query start: [70618]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: TAATAAATTGA
+Target start: [3111, 12829, 13414]
+Query start: [99857]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: TCTGGAGGAAC
+Target start: [10425, 10479]
+Query start: [2480]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: CAGCCATGGCA
+Target start: [1251, 1251]
+Query start: [49235]
+Identifier: [['STRG.52.1']]
+Kmer: AATGTCAAAAT
+Target start: [623]
+Query start: [43890]
+Identifier: [['STRG.42.1', 'STRG.42.2']]
+Kmer: TGCCTTCTCGC
+Target start: [1615, 2817]
+Query start: [63727]
+Identifier: [['STRG.6.1']]
+Kmer: GAGGCGCTTCT
+Target start: [379]
+Query start: [18617]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: CCCATGACTTA
+Target start: [7148, 16866, 17451]
+Query start: [93586]
+Identifier: [['STRG.27.1']]
+Kmer: GCAACGAAACA
+Target start: [824]
+Query start: [25877]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GTCGAAGAAAT
+Target start: [2132, 2132]
+Query start: [79659]
+Identifier: [['STRG.10.3']]
+Kmer: TTCCTTTGTTC
+Target start: [44]
+Query start: [99363]
+Identifier: [['STRG.32.2']]
+Kmer: TATATTTCCAT
+Target start: [1427]
+Query start: [51616]
+Identifier: [['STRG.41.2', 'STRG.41.3']]
+Kmer: CAAATGTTGTT
+Target start: [2472, 2411]
+Query start: [30697]
+Identifier: [['STRG.10.5']]
+Kmer: TAAATTAATTC
+Target start: [186]
+Query start: [23279]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: AAGCCGAGCTG
+Target start: [2351, 2351]
+Query start: [74965]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: TGCGAGAAGTC
+Target start: [851, 10569, 11154]
+Query start: [2211]
+Identifier: [['STRG.48.1', 'STRG.48.1']]
+Kmer: ACAGATACAGA
+Target start: [3111, 3138]
+Query start: [45794, 48670, 76010, 76016]
+Identifier: [['STRG.59.2']]
+Kmer: TGTTTTCGTAT
+Target start: [508]
+Query start: [68685]
+Identifier: [['STRG.33.1', 'STRG.33.2']]
+Kmer: TTTTTTGTTTT
+Target start: [80, 80]
+Query start: [250, 20920, 26945]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: GCAGTTGCAGC
+Target start: [1899, 1899]
+Query start: [59153, 71464]
+Identifier: [['STRG.50.1']]
+Kmer: GCTTGTAATTA
+Target start: [31]
+Query start: [5050]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: CCGTGTTTAAC
+Target start: [2686, 2459, 2459]
+Query start: [66055]
+Identifier: [['STRG.10.6']]
+Kmer: CAAAACGTGGA
+Target start: [186]
+Query start: [60855]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GATGAGGATGA
+Target start: [291, 291]
+Query start: [91733]
+Identifier: [['STRG.41.2', 'STRG.41.3']]
+Kmer: AATAAATTGTT
+Target start: [65, 65]
+Query start: [24392]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: ATCATTCCAAT
+Target start: [3644, 3698]
+Query start: [10437]
+Identifier: [['STRG.30.1']]
+Kmer: GAAGGCCGAGG
+Target start: [1073]
+Query start: [88311]
+Identifier: [['STRG.46.1']]
+Kmer: GAACGGGAGCT
+Target start: [288]
+Query start: [61398]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: CACCAACGCCC
+Target start: [3436, 3436]
+Query start: [15886]
+Identifier: [['STRG.26.1', 'STRG.26.2']]
+Kmer: GACACATTCCA
+Target start: [264, 1286]
+Query start: [54192]
+Identifier: [['STRG.13.1']]
+Kmer: TGTCAATGGAG
+Target start: [458]
+Query start: [73095]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: AGCAGCAGAAG
+Target start: [2263, 2263]
+Query start: [69574]
+Identifier: [['STRG.43.3', 'STRG.43.1', 'STRG.43.2']]
+Kmer: GCGGCCACTGA
+Target start: [748, 719, 715]
+Query start: [75153]
+Identifier: [['STRG.50.1']]
+Kmer: CAGCCTTCAAA
+Target start: [97]
+Query start: [28582]
+Identifier: [['STRG.46.1']]
+Kmer: ACGGCAGCGCC
+Target start: [809]
+Query start: [5502]
+Identifier: [['STRG.57.1', 'STRG.57.2']]
+Kmer: AACTTTCGCTG
+Target start: [1578, 1578]
+Query start: [21220]
+Identifier: [['STRG.17.1']]
+Kmer: CGCAGCGCCAT
+Target start: [369]
+Query start: [41178]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: GAAAGAAAATC
+Target start: [2842, 2842]
+Query start: [12317]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: TATTTGGCCAA
+Target start: [370, 370]
+Query start: [14119]
+Identifier: [['STRG.34.1']]
+Kmer: CATTCTTGTGC
+Target start: [871]
+Query start: [1306]
+Identifier: [['STRG.9.1', 'STRG.9.2', 'STRG.9.3']]
+Kmer: CGAGAACATTC
+Target start: [404, 404, 624]
+Query start: [52159]
+Identifier: [['STRG.41.2', 'STRG.41.3', 'STRG.41.1']]
+Kmer: CGGGTATTGCA
+Target start: [632, 571, 360]
+Query start: [31802]
+Identifier: [['STRG.3.2']]
+Kmer: CTCGGTTCGCG
+Target start: [245]
+Query start: [61141]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GTGGGCGCCTC
+Target start: [2703, 2703]
+Query start: [89662]
+Identifier: [['STRG.42.2']]
+Kmer: AATGTGAATGC
+Target start: [1401]
+Query start: [20367, 37292]
+Identifier: [['STRG.48.1']]
+Kmer: CCCCCACCACC
+Target start: [3369]
+Query start: [61491]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: CAAACAAGAAC
+Target start: [9003, 9057]
+Query start: [29904]
+Identifier: [['STRG.38.1']]
+Kmer: TCCCGTTTCCC
+Target start: [89]
+Query start: [55240]
+Identifier: [['STRG.36.1']]
+Kmer: AATAAAAGCAA
+Target start: [847]
+Query start: [20747, 70118]
+Identifier: [['STRG.18.1']]
+Kmer: TTTTCAAGAAA
+Target start: [18731]
+Query start: [64501]
+Identifier: [['STRG.56.1', 'STRG.56.2', 'STRG.56.3']]
+Kmer: TTTATACATAC
+Target start: [1171, 1171, 2369]
+Query start: [28034]
+Identifier: [['STRG.3.2']]
+Kmer: CAAGCGCCGTT
+Target start: [329]
+Query start: [72382]
+Identifier: [['STRG.56.1', 'STRG.56.2', 'STRG.56.3']]
+Kmer: GGATCTCATAA
+Target start: [777, 777, 1975]
+Query start: [49853]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: ATTTCCTCTTC
+Target start: [9907, 9961]
+Query start: [75815]
+Identifier: [['STRG.16.2']]
+Kmer: TTATCGAGACT
+Target start: [607]
+Query start: [33383]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: TTGTATTTGTA
+Target start: [7721, 17439, 18024]
+Query start: [86042]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: GGGCATGAAAA
+Target start: [1889, 1662, 1662]
+Query start: [28232]
+Identifier: [['STRG.48.1']]
+Kmer: ATACAGATACA
+Target start: [3109]
+Query start: [48674, 75992, 76014]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: GGTGGGTCAAC
+Target start: [11367, 11421]
+Query start: [15829]
+Identifier: [['STRG.15.1', 'STRG.42.1', 'STRG.42.2']]
+Kmer: ACAAATGAAAA
+Target start: [1098, 2012, 3214]
+Query start: [98964]
+Identifier: [['STRG.28.1']]
+Kmer: TATGGAAACCC
+Target start: [1103]
+Query start: [50040]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: AGCAATCCAGG
+Target start: [1364, 1364]
+Query start: [6885]
+Identifier: [['STRG.48.1', 'STRG.48.2']]
+Kmer: GGCTGGGATTG
+Target start: [1283, 1283]
+Query start: [15120]
+Identifier: [['STRG.8.1']]
+Kmer: AAATAGTTTTC
+Target start: [186]
+Query start: [8873]
+Identifier: [['STRG.57.1', 'STRG.57.2']]
+Kmer: CGCAATTATGC
+Target start: [537, 537]
+Query start: [24289]
+Identifier: [['STRG.16.1', 'STRG.16.2']]
+Kmer: TAATGTACAAA
+Target start: [563, 563]
+Query start: [9772]
+Identifier: [['STRG.47.2', 'STRG.47.1']]
+Kmer: AATGGACGCGG
+Target start: [280, 280]
+Query start: [18499]
+Identifier: [['STRG.42.2']]
+Kmer: GAGAAGGTGAG
+Target start: [596]
+Query start: [62691]
+Identifier: [['STRG.5.1', 'STRG.9.1', 'STRG.9.2', 'STRG.9.3']]
+Kmer: AAAAAACATTG
+Target start: [5904, 1682, 1682, 1902]
+Query start: [64239]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: TCCGGGCTCTG
+Target start: [8932, 8932]
+Query start: [73323]
+Identifier: [['STRG.27.1']]
+Kmer: AATTGCATTTG
+Target start: [1853]
+Query start: [58121]
+Identifier: [['STRG.54.1']]
+Kmer: TCGCCTTCCTC
+Target start: [971]
+Query start: [4440]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: GCGAGTGGCGA
+Target start: [6204, 6204]
+Query start: [80171]
+Identifier: [['STRG.13.2']]
+Kmer: AATTGCATTTA
+Target start: [2572]
+Query start: [58140]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: ACCTGGCCAAG
+Target start: [1969, 1969]
+Query start: [45482]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: ACCTGGCCAAA
+Target start: [4683, 4737]
+Query start: [3788]
+Identifier: [['STRG.40.1']]
+Kmer: GGGCATGATGG
+Target start: [444]
+Query start: [97035]
+Identifier: [['STRG.28.1']]
+Kmer: ACTCGCAGGAC
+Target start: [608]
+Query start: [48724]
+Identifier: [['STRG.13.1']]
+Kmer: GGGCATGATGC
+Target start: [1715]
+Query start: [97007]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: GCATCCGGAGG
+Target start: [4606, 14324, 14909]
+Query start: [2808]
+Identifier: [['STRG.28.1']]
+Kmer: AGCCAGAGATG
+Target start: [229]
+Query start: [28842]
+Identifier: [['STRG.7.1', 'STRG.7.3', 'STRG.7.4', 'STRG.7.2', 'STRG.7.5', 'STRG.7.6']]
+Kmer: ACTCGATTGTA
+Target start: [2178, 2053, 2053, 2026, 1982, 2102]
+Query start: [19086]
+Identifier: [['STRG.27.1']]
+Kmer: TGAAGCAGCCA
+Target start: [3222]
+Query start: [72068]
+Identifier: [['STRG.59.3']]
+Kmer: TTTTTCTATTG
+Target start: [2606]
+Query start: [71839]
+Identifier: [['STRG.39.1']]
+Kmer: AGAAAAGTGAG
+Target start: [131]
+Query start: [42608]
+Identifier: [['STRG.36.1']]
+Kmer: GCGATTCAAAA
+Target start: [1006]
+Query start: [57849]
+Identifier: [['STRG.56.3']]
+Kmer: CCATCTCCCAG
+Target start: [817]
+Query start: [84274]
+Identifier: [['STRG.16.1', 'STRG.16.2', 'STRG.38.1']]
+Kmer: CCCGTTTCCCG
+Target start: [535, 535, 90]
+Query start: [55241]
+Identifier: [['STRG.27.1', 'STRG.55.1']]
+Kmer: TTCATTATTTT
+Target start: [3838, 1302]
+Query start: [34931]
+Identifier: [['STRG.20.3', 'STRG.42.2']]
+Kmer: AATTAGTGCTT
+Target start: [211, 325]
+Query start: [61175]
+Identifier: [['STRG.43.3', 'STRG.43.1', 'STRG.43.2']]
+Kmer: CCGCCGCTGTT
+Target start: [517, 488, 484]
+Query start: [59107]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: GAGTGGCAGCC
+Target start: [591, 364, 364]
+Query start: [35999]
+Identifier: [['STRG.15.1']]
+Kmer: GCCCGATGATG
+Target start: [126]
+Query start: [83101]
+Identifier: [['STRG.56.1', 'STRG.56.3']]
+Kmer: GCTCTTAAACT
+Target start: [1470, 2668]
+Query start: [935]
+Identifier: [['STRG.42.2']]
+Kmer: CAGGTCGCCAA
+Target start: [1481]
+Query start: [63662]
+Identifier: [['STRG.2.1', 'STRG.2.2']]
+Kmer: CACACCGACAC
+Target start: [849, 849]
+Query start: [54004]
+Identifier: [['STRG.35.1', 'STRG.56.3']]
+Kmer: CAATTTTGACT
+Target start: [1643, 1047]
+Query start: [84450]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: GCAAGCGGAAA
+Target start: [8922, 8976]
+Query start: [73952]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: CAACAGCAGTA
+Target start: [3097, 3097]
+Query start: [25938]
+Identifier: [['STRG.9.2', 'STRG.9.3']]
+Kmer: AAATATGTTTA
+Target start: [1913, 2133]
+Query start: [62225]
+Identifier: [['STRG.20.1', 'STRG.20.2', 'STRG.44.1', 'STRG.44.2']]
+Kmer: GCAGCAGAAGG
+Target start: [9766, 10351, 2264, 2264]
+Query start: [69575]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: CATCATTGGCG
+Target start: [2288, 2061, 2061]
+Query start: [3321]
+Identifier: [['STRG.4.1']]
+Kmer: TTTAATTAAAA
+Target start: [2519]
+Query start: [80977]
+Identifier: [['STRG.46.1']]
+Kmer: TTTCTGTGCGA
+Target start: [40]
+Query start: [22497]
+Identifier: [['STRG.12.1', 'STRG.14.1']]
+Kmer: AGAAAAAGAAA
+Target start: [1175, 687]
+Query start: [36032]
+Identifier: [['STRG.42.2']]
+Kmer: AAAATTAAGTA
+Target start: [991]
+Query start: [65124]
+Identifier: [['STRG.11.1', 'STRG.20.1', 'STRG.20.2']]
+Kmer: CAACAAACGCA
+Target start: [750, 1844, 1844]
+Query start: [7669]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: GATAAATAAAT
+Target start: [8187, 17905, 18490]
+Query start: [14433]
+Identifier: [['STRG.20.3', 'STRG.20.1', 'STRG.20.2']]
+Kmer: TTTAATTAAAT
+Target start: [7841, 17559, 18144]
+Query start: [60968]
+Identifier: [['STRG.13.2']]
+Kmer: AAACATAATTG
+Target start: [244]
+Query start: [98358]
+Identifier: [['STRG.23.3', 'STRG.23.1', 'STRG.23.2']]
+Kmer: AAAAACGATGG
+Target start: [2493, 2266, 2266]
+Query start: [53888]
+Identifier: [['STRG.31.2', 'STRG.31.3']]
+Kmer: ATCTCCAAAAT
+Target start: [3705, 2615]
+Query start: [3623]
+Identifier: [['STRG.31.2', 'STRG.31.3']]
+Kmer: TTGCTAACTGA
+Target start: [4132, 3042]
+Query start: [52909]
+Identifier: [['STRG.59.1', 'STRG.59.2']]
+Kmer: CTGGCAGTCAG
+Target start: [2495, 3283]
+Query start: [29246]
+Identifier: [['STRG.31.1', 'STRG.31.2', 'STRG.31.3']]
+Kmer: CCATTTCGCCC
+Target start: [2009, 2009, 919]
+Query start: [20657]
+Identifier: [['STRG.44.1', 'STRG.44.2']]
+Kmer: GGAAAAGGAAA
+Target start: [1331, 1331]
+Query start: [24678]
+Identifier: [['STRG.55.1']]
+Kmer: TTCTTCTTCTG
+Target start: [276]
+Query start: [51137, 86799]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: ACAACAACAAG
+Target start: [14670, 14724]
+Query start: [5530]
+Identifier: [['STRG.5.1']]
+Kmer: ACAACAACAAA
+Target start: [6276]
+Query start: [37733]
+Identifier: [['STRG.24.1']]
+Kmer: CAAAAAAACAA
+Target start: [1110]
+Query start: [62717]
+Identifier: [['STRG.36.1']]
+Kmer: GCCACTCCTGC
+Target start: [1948]
+Query start: [32262]
+Identifier: [['STRG.57.2']]
+Kmer: ATTTTGTTTTT
+Target start: [3471]
+Query start: [9233]
+Identifier: [['STRG.50.1']]
+Kmer: GAGCAAATAAT
+Target start: [246]
+Query start: [7856]
+Identifier: [['STRG.57.1', 'STRG.57.2']]
+Kmer: TATAATTGAAT
+Target start: [2678, 2678]
+Query start: [16336]
+Identifier: [['STRG.8.1']]
+Kmer: GTGGGCTTCGT
+Target start: [247]
+Query start: [85027]
+Identifier: [['STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1', 'STRG.50.1']]
+Kmer: TTATTATTATT
+Target start: [703, 706, 709, 712, 715, 718, 721, 724, 727]
+Query start: [51728]
+Identifier: [['STRG.52.1']]
+Kmer: CTGTGCACACC
+Target start: [821]
+Query start: [2396]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: GTGACAAATTT
+Target start: [8139, 8139]
+Query start: [30927]
+Identifier: [['STRG.13.2']]
+Kmer: AGTAATCGAAC
+Target start: [3133]
+Query start: [28097]
+Identifier: [['STRG.35.1']]
+Kmer: GAGGCGCCCAT
+Target start: [846]
+Query start: [69602]
+Identifier: [['STRG.20.1', 'STRG.20.2']]
+Kmer: CCGCAGCCGCG
+Target start: [609, 609]
+Query start: [1348]
+Identifier: [['STRG.14.1']]
+Kmer: CCACTTTACAA
+Target start: [3414]
+Query start: [50880]
+Identifier: [['STRG.27.1']]
+Kmer: AACAGCAAAAC
+Target start: [3100]
+Query start: [76486]
+Identifier: [['STRG.30.1']]
+Kmer: GAGAAGGCCGA
+Target start: [1071]
+Query start: [28763]
+Identifier: [['STRG.18.2', 'STRG.18.1', 'STRG.36.1']]
+Kmer: AGCAGTTGCTC
+Target start: [11026, 11080, 2277]
+Query start: [44150]
+Identifier: [['STRG.46.1']]
+Kmer: TGCATTTCTAT
+Target start: [823]
+Query start: [75311]
+Identifier: [['STRG.34.1']]
+Kmer: CAGCGAACACA
+Target start: [1387]
+Query start: [25344]
+Identifier: [['STRG.9.1', 'STRG.9.2', 'STRG.9.3']]
+Kmer: GCAAAATTTAG
+Target start: [1485, 1485, 1705]
+Query start: [94752]
+Identifier: [['STRG.18.2', 'STRG.18.1', 'STRG.24.1']]
+Kmer: CCCAAAAGCGA
+Target start: [9741, 9795, 854]
+Query start: [34083]
+Identifier: [['STRG.14.1']]
+Kmer: ACATGGAGGCG
+Target start: [753]
+Query start: [57309]
+Identifier: [['STRG.8.1']]
+Kmer: TCTGGAAAATG
+Target start: [672]
+Query start: [57912]
+Identifier: [['STRG.34.1']]
+Kmer: TTCTTGTGCTT
+Target start: [873]
+Query start: [54676]
+Identifier: [['STRG.40.1']]
+Kmer: ACAAAATACTG
+Target start: [233]
+Query start: [66726, 67092]
+Identifier: [['STRG.18.2', 'STRG.18.1']]
+Kmer: ATACAAAATAC
+Target start: [12604, 12658]
+Query start: [42550]
+Identifier: [['STRG.59.2']]
+Kmer: TCCCTTGGCTG
+Target start: [298]
+Query start: [57645]
+Identifier: [['STRG.59.3', 'STRG.59.1', 'STRG.59.2']]
+Kmer: CTTCACCCGCT
+Target start: [1873, 1873, 2661]
+Query start: [26894]
+Identifier: [['STRG.26.1', 'STRG.26.2']]
+Kmer: GCCCACTCGAA
+Target start: [390, 1412]
+Query start: [18313]
+Identifier: [['STRG.9.3', 'STRG.14.1']]
+Kmer: AGAAAAGCAGA
+Target start: [279, 793]
+Query start: [48957]
+Identifier: [['STRG.9.2', 'STRG.9.3']]
+Kmer: GCAGAACTGCG
+Target start: [2150, 2370]
+Query start: [4174]
+Identifier: [['STRG.16.2']]
+Kmer: CCAATAATTTG
+Target start: [741]
+Query start: [65338]
