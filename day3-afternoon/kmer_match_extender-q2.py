@@ -56,39 +56,39 @@ def kmer_match(target, query, k):
     end = 0
     final_sequences = []
     final_sequences_sorted = []
-    i = 0
-    while i < 1000:
-    	i += 1
-        for kmer in query_match.keys():
-            l1 = query_match[kmer]
-            l2 = kmer_start[kmer]
-            for j,pos_target in enumerate(l2):
-                identifier = seq_name[kmer][j]
-                sequence = sequences[identifier]
-                for pos_query in l1:
-                    num1, num2 = 0, 0
-                    # if sequence[pos_target:pos_target+k] == sequence1[pos_query:pos_query+k]
-                    while sequence[pos_target - num1] == sequence1[pos_query - num1]:
-                        num1 += 1
-                        beginning = pos_query - num1
-                        beginning2 = pos_target - num1
-                        if beginning == 0 or beginning2 == 0:
-                            break
-                    while sequence[pos_target + num2] == sequence1[pos_query + num2]:
-                        num2 += 1
-                        end = pos_query + num2
-                        end2 = pos_target + num2
-                        if end == len(sequence1) or end2 == len(sequence):
-                            break
-                    if (end - beginning) > 11 :        
-                    	final_sequences.append(sequence1[beginning:end])
-    final_sequences_sorted = sorted(final_sequences, key=len, reverse=True)
-    print ("\n".join(final_sequences_sorted))
+
+
+    for kmer in query_match.keys():
+        l1 = query_match[kmer]
+        l2 = kmer_start[kmer]
+        for j,pos_target in enumerate(l2):
+            identifier = seq_name[kmer][j]
+            sequence = sequences[identifier]
+            for pos_query in l1:
+                num1, num2 = 0, 0
+                # if sequence[pos_target:pos_target+k] == sequence1[pos_query:pos_query+k]
+                while sequence[pos_target - num1] == sequence1[pos_query - num1]:
+                    num1 += 1
+                    beginning = pos_query - num1
+                    beginning2 = pos_target - num1
+                    if beginning == 0 or beginning2 == 0:
+                        break
+                while sequence[pos_target + num2] == sequence1[pos_query + num2]:
+                    num2 += 1
+                    end = pos_query + num2
+                    end2 = pos_target + num2
+                    if end == len(sequence1) or end2 == len(sequence):
+                        break
+                if (end - beginning) > 11 :        
+                	final_sequences.append(sequence1[beginning:end])
+                #if len(final_sequences) == 1000:
+    #print len(final_sequences)
+    return sorted(final_sequences, key=len, reverse=True)
 
     
 
     
-kmer_match(open(sys.argv[1]),open(sys.argv[2]),sys.argv[3])
+print "\n".join(kmer_match(open(sys.argv[1]),open(sys.argv[2]),sys.argv[3])[:1000])
 
 
     
