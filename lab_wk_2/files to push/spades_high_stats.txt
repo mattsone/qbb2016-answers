@@ -1,0 +1,5 @@
+N 50: 100000
+Num of Contigs: 1
+Average Length: 100000
+Minimum Length: 100000
+Maximum Length: 100000

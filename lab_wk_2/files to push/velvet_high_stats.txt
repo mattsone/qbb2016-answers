@@ -1,0 +1,5 @@
+N 50: 7500
+Num of Contigs: 18
+Average Length: 5565
+Minimum Length: 53
+Maximum Length: 33205
