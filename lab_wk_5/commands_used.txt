@@ -1,0 +1,27 @@
+Recode:
+
+plink2 --vcf Genodata.vcf --recode --out Genodata
+
+
+Command line for PCA: 
+plink2 --file GenoData --pca 2  --out genodata_pca2
+
+R - code for PCA
+
+genodata_pca2 <- read.table("~/qbb2016-answers/lab_wk_5/genodata_pca2.eigenvec", quote="\"", comment.char="")
+
+plot(genodata_pca2$V3, genodata_pca2$V4, xlab = "Component 1", ylab = "Component 2", main = "2 Component PCA Analysis on Genodata")
+
+Command line for allele frequency: 
+plink2 --file Genodata --freq --out Geno_freq
+
+R code for Histogram
+
+Geno_freq <- read.csv("~/qbb2016-answers/lab_wk_5/Geno_freq.frq", sep="")
+
+hist(Geno_freq$MAF, main = "Histogram of Allele Frequency", xlab = "Allele Frequency")
+
+Pheno Assoc command line for plink:
+
+plink2 --file Genodata --pheno PhenoData_edit1.txt --all-pheno --allow-no-sex  --assoc --out Ppheno
+
