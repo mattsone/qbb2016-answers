@@ -1,0 +1,21 @@
+
+
+bowtie2 -x chr19 -U input_ER4.fastq -S input_ER4
+bowtie2 -x chr19 -U input_G1E.fastq -S input_G1E
+ 
+
+macs2 callpeak  -g mm -c input_ER4 -t CTCF_ER4 --outdir macs_ER4_1
+
+macs2 callpeak  -g mm -c input_G1E -t CTCF_G1E --outdir macs_G1E_1
+
+
+
+bedtools subtract -bed -a ER4-NA_peaks.narrowPeak -b G1E_NA_peaks.narrowPeak > ER4-subtract_G1E.bed
+ 
+bedtools subtract -bed -a G1E-NA_peaks.narrowPeak -b ER4_NA_peaks.narrowPeak > G1E-subtract_ER4.bed
+
+sortBed -chrThenScoreD -i ER4-subtract_G1E.bed > ER4-G1E_sort3.bed
+
+bedtools getfasta -fi chr19.fa -bed ER4-G1E_sort2.bed > ER4_seqs3.fasta
+
+/usr/local/opt/meme/bin/meme-chip ER4_seqs3.fasta -meme-maxw 20 -nmeme 100 -norand -db JASPAR_CORE_2016.meme -o ER4-meme-chip4
