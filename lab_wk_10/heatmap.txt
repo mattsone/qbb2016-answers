@@ -1,0 +1,29 @@
+#R code that I used to generate heatmap
+
+library("pheatmap")
+library("RColorBrewer")
+
+col.pal <- brewer.pal(9,"Blues")
+
+drows1 <- "euclidean"
+dcols1 <- "euclidean"
+
+heatmap <- read.table("hema_data.txt", row.names=0, sep=" ", header=TRUE)
+
+data <- heatmap
+
+hm.parameters <- list(data, 
+  color = col.pal,
+  cellwidth = 15, cellheight = 12, scale = "none",
+  treeheight_row = 200,
+  kmeans_k = NA,
+  show_rownames = T, show_colnames = T,
+  main = "Full heatmap (avg, eucl, unsc)",
+  clustering_method = "average",
+  cluster_rows = TRUE, cluster_cols = TRUE,
+  clustering_distance_rows = drows1, 
+  clustering_distance_cols = dcols1,
+  filename="heatmap.pdf")
+ 
+  do.call("pheatmap", hm.parameters)
+
