@@ -1,0 +1,8 @@
+1	binding (GO:0005488)	11	16.9%	25.0%
+2	structural molecule activity (GO:0005198)	1	1.5%	2.3%
+3	channel regulator activity (GO:0016247)	1	1.5%	2.3%
+4	catalytic activity (GO:0003824)	27	41.5%	61.4%
+5	transporter activity (GO:0005215)	4	6.2%	9.1%
+
+
+The largest cluster (41.5%) was for genes with catalytic activity like phosphatases, kinases, and methyl/acetyl transferases, which makes sense because as the cells differentiate they will have to silence or activate genes though methlation/acetylation and inactivate or activate proteins through phosphorylation or dephosphorylation.   
